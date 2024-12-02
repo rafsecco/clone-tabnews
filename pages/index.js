@@ -1,7 +1,7 @@
 function Home(){
   return (
     <div>
-      <h1>Frases</h1>
+      <h1>Frases motivacionais! </h1>
       <p>"Se você não está disposto a aprender, ninguém pode te ajudar. Se você está disposto a aprender, ninguém pode te parar."</p>
       <p>"O código é a ponte entre a ideia e a realidade. Não pare até que sua visão ganhe vida."</p>
       <p>"A única maneira de fazer um ótimo trabalho é amar o que você faz. Continue programando até amar o processo."</p>
